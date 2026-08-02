@@ -1,4 +1,4 @@
-import * as THREE from 'three';
+/*import * as THREE from 'three';
 
 // 1. Create the 3D Scene
 const scene = new THREE.Scene();
@@ -31,4 +31,4 @@ window.addEventListener('resize', () => {
   renderer.setSize(window.innerWidth, window.innerHeight);
 });
 
-animate();
+animate(); */
